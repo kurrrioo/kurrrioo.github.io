@@ -6,8 +6,7 @@ title = 'Hugo im Codespace lokal testen und veröffentlichen'
 
 ## Voraussetzungen
 
-Dieses Repository enthält die Hugo-Website im Unterordner `whoami`. Die
-folgenden Befehle werden daher aus dem Repository-Hauptverzeichnis ausgeführt.
+Dieses Repository enthält die Hugo-Website im Unterordner `whoami`.
 Nach dem Erstellen eines neuen Codespaces müssen im Hugo-Verzeichnis zunächst
 die Go-Module eingerichtet werden:
 
