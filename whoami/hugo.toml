@@ -1,7 +1,7 @@
 
 baseURL = 'http://localhost:1313'
 #baseURL = 'https://verbose-winner-9x95rq7764fxgq6-1313.app.github.dev'
-#relativeURLs = true
+relativeURLs = true
 
 locale = 'de-DE'
 defaultContentLanguage = 'de'
